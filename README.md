@@ -4,9 +4,9 @@ A ready-to-deploy AI receptionist for a small dental clinic. It answers
 common questions, books 6-month cleanings and exams, reschedules, cancels,
 and takes after-hours messages. Built with Next.js and Gemini.
 
-**Demo:** run it locally in demo mode (no API key needed), or deploy this
-repo to Vercel for a live demo. The demo clinic is "Bright Smile Dental",
-fictional data only. This package is the full source code for that demo.
+**Live demo:** https://bright-smile-dental-ai-receptionist.vercel.app
+(Bright Smile Dental, fictional data only, demo mode, no API key needed.)
+This package is the full source code for that demo.
 
 > **Not HIPAA-compliant out of the box.** This is a template, not a medical
 > service. It stores only demo/fictional appointment data by default. Before
